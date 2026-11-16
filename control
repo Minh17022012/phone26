@@ -1,0 +1,9 @@
+Package: com.vn.phone26
+Name: Phone26
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Giao diện tab bar nổi kiểu iOS 26 cho ứng dụng Điện thoại: 3 tab + nút tìm kiếm tách rời
+Maintainer: you
+Author: you
+Section: Tweaks
